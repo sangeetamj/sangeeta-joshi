@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sangeeta-joshi/static/css/main.a34373b4.chunk.css",
-    "main.js": "/sangeeta-joshi/static/js/main.f99f2762.chunk.js",
-    "main.js.map": "/sangeeta-joshi/static/js/main.f99f2762.chunk.js.map",
+    "main.css": "/sangeeta-joshi/static/css/main.7fe31a10.chunk.css",
+    "main.js": "/sangeeta-joshi/static/js/main.d8063bf3.chunk.js",
+    "main.js.map": "/sangeeta-joshi/static/js/main.d8063bf3.chunk.js.map",
     "runtime-main.js": "/sangeeta-joshi/static/js/runtime-main.79828f6b.js",
     "runtime-main.js.map": "/sangeeta-joshi/static/js/runtime-main.79828f6b.js.map",
     "static/js/2.26df875f.chunk.js": "/sangeeta-joshi/static/js/2.26df875f.chunk.js",
     "static/js/2.26df875f.chunk.js.map": "/sangeeta-joshi/static/js/2.26df875f.chunk.js.map",
     "index.html": "/sangeeta-joshi/index.html",
-    "static/css/main.a34373b4.chunk.css.map": "/sangeeta-joshi/static/css/main.a34373b4.chunk.css.map",
+    "static/css/main.7fe31a10.chunk.css.map": "/sangeeta-joshi/static/css/main.7fe31a10.chunk.css.map",
     "static/js/2.26df875f.chunk.js.LICENSE.txt": "/sangeeta-joshi/static/js/2.26df875f.chunk.js.LICENSE.txt",
     "static/media/address.a0de33ab.svg": "/sangeeta-joshi/static/media/address.a0de33ab.svg",
     "static/media/award1.da12a3e6.pdf": "/sangeeta-joshi/static/media/award1.da12a3e6.pdf",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.79828f6b.js",
     "static/js/2.26df875f.chunk.js",
-    "static/css/main.a34373b4.chunk.css",
-    "static/js/main.f99f2762.chunk.js"
+    "static/css/main.7fe31a10.chunk.css",
+    "static/js/main.d8063bf3.chunk.js"
   ]
 }
